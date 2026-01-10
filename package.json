@@ -18,15 +18,15 @@
     "jszip": "^3.10.1",
     "md5": "^2.3.0",
     "mysql2": "^3.14.4",
-    "next": "^16.0.7",
-    "react": "^19.2.1",
-    "react-dom": "^19.2.1",
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
     "sha.js": "^2.4.11",
     "sharp": "^0.34.4",
     "ssh2-sftp-client": "^9.0.2"
   },
   "devDependencies": {
     "eslint": "^9.39.1",
-    "eslint-config-next": "^16.0.7"
+    "eslint-config-next": "^16.1.1"
   }
 }
