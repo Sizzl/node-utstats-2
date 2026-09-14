@@ -1,3 +1,5 @@
+# Currently Inactive Use Node-UTStats-Lite instead
+
 # Node UTStats 2
 Unreal Tournament stats tracking website using node.js and mysql.
 
